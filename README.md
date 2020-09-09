@@ -26,3 +26,7 @@ python3 -m jupyter notebook \
 ## Running entirely locally
 
 Close this repo, then use Jupyter notebook as normal.
+
+## TODO
+
+* [ ] Automatically generate the demo list, also include it in the notebooks.
