@@ -8,6 +8,9 @@ This will let you try out some of Renode's features without having to install an
 ## Running on Colab in the cloud
 
 * [HiFive Unleashed execution metrics demo](https://colab.research.google.com/github/mgielda/renode-notebooks-ipynb/blob/master/unleashed-metrics.ipynb)
+* [TF Lite Magic Wand demo](https://colab.research.google.com/github/mgielda/renode-notebooks-ipynb/blob/master/tflite-magic-wand.ipynb)
+
+
 
 ## Connect to a local runtime in Colab (optional)
 
